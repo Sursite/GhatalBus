@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 🏠 Home Page -->
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/home.html</loc>
+  </url>
+
+  <!-- 🗺️ All Routes List Page -->
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/all-routes.html</loc>
+  </url>
+
+  <!-- 🚌 Ghatal to Others -->
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-howrah.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-kolkata.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-dharmatala.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-salt-lake.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-barrackpore.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-barasat.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-garia.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-baruipur.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-midnapore.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-digha.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-bardhaman.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/ghatal-tarakeshwar.html</loc>
+  </url>
+
+  <!-- 🚌 Others to Ghatal -->
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/howrah-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/kolkata-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/dharmatala-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/salt-lake-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/barrackpore-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/barasat-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/garia-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/baruipur-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/midnapore-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/digha-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/bardhaman-ghatal.html</loc>
+  </url>
+  <url>
+    <loc>https://ghatalbus.blogspot.com/p/tarakeshwar-ghatal.html</loc>
+  </url>
+
+</urlset>
